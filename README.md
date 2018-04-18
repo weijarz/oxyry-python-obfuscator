@@ -1,4 +1,6 @@
-# oxyry-python-obfuscator
+# Oxyry Python Obfuscator
+
+The most reliable python obfuscator in the world.
 
 Website: <http://pyob.oxyry.com>
 
