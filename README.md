@@ -2,8 +2,6 @@
 
 The most reliable python obfuscator in the world.
 
-Website: <http://pyob.oxyry.com>
-
 # Features
 
 - Rename symbol names, includes variables, functions, classes, arguments,
@@ -35,7 +33,3 @@ If you open options for rename parameters, you need to make sure that do not use
 # Submitting bugs and feedback
 
 Access [Issue List](https://github.com/weijarz/oxyry-python-obfuscator/issues)
-
-# Purchase offline cli version
-
-[Purchase](https://pyob.oxyry.com/download)
